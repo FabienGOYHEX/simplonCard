@@ -1,0 +1,27 @@
+.bloc-velo {
+    color: brown;
+    border: solid 1px;
+    margin: 50px;
+    padding: 50px;
+    background-color: bisque;
+}
+
+h1 {
+    color: black;
+}
+
+.bloc-trot {
+    color: white;
+    border: solid 5px;
+    margin: 50px;
+    padding: 50px;
+    background-image: url(robert-bye-tG36rvCeqng-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sectionTrotVelo {
+    display: flex;
+    border: solid 5px;
+}
